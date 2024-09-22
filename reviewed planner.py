@@ -27,6 +27,7 @@ while turn_trial <max_trial:
         print('access denied!')
 #outlay of financial planner
 #finacial calculator
+#testing git
 #ask vee to input the total income to be budgeted for
 total_income=()
 def c_income(total_income):

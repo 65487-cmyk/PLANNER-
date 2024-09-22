@@ -9,7 +9,7 @@ class User:
     def calculate_income(self):
         self.total_income=(input('enter your total average income /n'))
         self=int(self.total_income)
-    value=calculate_income('self')
+    value=calculate_income(self.total_income)
         
     print(f'your average income is {value}')
 
